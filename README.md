@@ -34,12 +34,15 @@ O projeto é composto pelas seguintes classes:
    cd barber-shop-problem
 
 2. Compile o projeto:
+   ```bash
    javac *.java
 
-3. Execute a simulaçao:
+4. Execute a simulaçao:
+   ```bash
    java Simulator
 
 ## Exemplo de Saída
+   ```text
 
   Customer: Enters the shop --- Thread-0
   Customer: Waiting for haircut --- Thread-0
